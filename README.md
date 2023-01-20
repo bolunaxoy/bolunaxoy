@@ -4,6 +4,7 @@
 - 🔭 hoje trabalho como trainee
 - 🌱 estudo analise e desenvolvimento de sistemas
 - 👯 participando de um programa com oracle one + alura
+<h6> 💻 #programação e #jogos 🎮 </h6><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="luna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +13,7 @@
 </div>
 
   ##
+  
   
   <div>
   
