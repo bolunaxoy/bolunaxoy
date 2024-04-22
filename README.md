@@ -1,4 +1,4 @@
-### Oi eu sou a emilly, seja muito bem vindo ao meu perfil no github!! 👋
+### Oi eu sou a emilly, seja bem vindo ao meu perfil no github!! 👋
 
 
 - 🔭 hoje trabalho como Analista de Sistemas Jr
