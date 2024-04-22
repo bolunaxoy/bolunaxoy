@@ -2,7 +2,7 @@
 
 
 - 🔭 hoje trabalho como Analista de Sistemas Jr
-- 🌱 estudo analise e desenvolvimento de sistemas
+- 🌱 Formada em Analise e Desenvolvimento de Sistemas
 <h6> 💻 #programação e #jogos 🎮 </h6><br>
 
 <div style="display: inline_block"><br>
