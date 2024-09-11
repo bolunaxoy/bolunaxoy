@@ -1,9 +1,15 @@
-### Oi eu sou a emilly, seja bem vindo ao meu perfil no github!! 👋
+# Hello! 🌸
 
+I'm Emilly and I love coding! 💻✨
 
-- 🔭 hoje trabalho como Analista de Sistemas Jr
-- 🌱 Formada em Analise e Desenvolvimento de Sistemas
-<h6> 💻 #programação e #jogos 🎮 </h6><br>
+- 🌱 Currently learning: [Tecnologias que está aprendendo, como HTML, CSS, JavaScript]
+- 💖 Interests: Front-end development, UI/UX design, and web animations!
+- 😊 I love reading books and playing games
+
+Feel free to check out my repos and let's build something beautiful together! 😊
+
+![Cute gif](https://media.giphy.com/media/3o85xnoIXebk3xYxKo/giphy.gif)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="luna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
