@@ -11,7 +11,4 @@ Fique à vontade para explorar meus repositórios. Vamos criar algo incrível ju
 ![Gif fofo](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
-![Cute gif](https://media.giphy.com/media/3o85xnoIXebk3xYxKo/giphy.gif)
-
-
 
