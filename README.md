@@ -7,5 +7,6 @@ Eu sou a Emilly, uma pessoa apaixonada por tecnologia e aprendizado constante. ð
 
 ![Gif fofo](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
+![Gif de Anime Fofo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
