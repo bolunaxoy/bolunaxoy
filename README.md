@@ -1,4 +1,4 @@
-# Olá! 😊
+# Olá!🌸
 
 Eu sou a Emilly, uma pessoa apaixonada por tecnologia e aprendizado constante. 💻✨
 
