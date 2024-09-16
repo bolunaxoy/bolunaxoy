@@ -5,7 +5,7 @@ Atualmente aprendendo: Tudo! 😂
 
 Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você tiver uma recomendação de leitura ou um jogo interessante, compartilhe comigo!
 
-
+![Python Snake](https://media.giphy.com/media/3o7TKuKGVG2T1x4E6Y/giphy.gif)
 
 ## Tecnologias que estou usando:
 
@@ -25,6 +25,8 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 
 </div>
 
+
 ## Conecte-se comigo:
 
 <div> <a href="mailto:emyyagami5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/emilly-silva-645270202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+
