@@ -21,6 +21,11 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 
 </div>
 
+<div>
+
+ <img align="center" alt="luna-CSS" height="300" width="300" src="https://github.com/user-attachments/assets/322276ce-6bec-4637-b5cc-0d1e603bb1a6">
+ 
+</div>
 
 ## Github Stats:
 
@@ -36,6 +41,12 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Connect with me:
 
 <div> <a href="mailto:emyyagami5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/emilly-silva-645270202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -44,16 +55,6 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake.svg">
-</picture>
 
-<div>
-
- <img align="center" alt="luna-CSS" height="300" width="300" src="https://github.com/user-attachments/assets/322276ce-6bec-4637-b5cc-0d1e603bb1a6">
- 
-</div>
 
 
