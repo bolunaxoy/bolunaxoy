@@ -1,3 +1,5 @@
+ <div style="text-align: center;" align="center">
+
 ## Emilly Silva 🌸
 Olá! Sou a Emilly, apaixonada por tecnologia e em busca constante de aprendizado. Adoro explorar novas ferramentas e tecnologias!
 
