@@ -34,7 +34,6 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 
 </div>
 
-
 ## Connect with me:
 
 <div> <a href="mailto:emyyagami5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/emilly-silva-645270202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
