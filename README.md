@@ -5,9 +5,11 @@ Atualmente aprendendo: Tudo! 😂
 
 Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você tiver uma recomendação de leitura ou um jogo interessante, compartilhe comigo!
 
+ <div style="text-align: center;" align="center">
 
 ## Technologies:
 
+ <div style="text-align: center;" align="center">
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
   <img align="center" alt="luna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="luna-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
