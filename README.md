@@ -5,7 +5,6 @@ Atualmente aprendendo: Tudo! 😂
 
 Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você tiver uma recomendação de leitura ou um jogo interessante, compartilhe comigo!
 
-![Python Snake](https://media.giphy.com/media/3o7TKuKGVG2T1x4E6Y/giphy.gif)
 
 ## Tecnologias que estou usando:
 
