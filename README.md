@@ -22,9 +22,6 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 </div>
 
 
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/322276ce-6bec-4637-b5cc-0d1e603bb1a6)
-
-
 ## Github Stats:
 
 <div style="text-align: center;" align="center">
@@ -52,5 +49,11 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bolunaxoy/bolunaxoy/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div>
+
+ <img align="center" alt="luna-CSS" height="300" width="300" src="https://github.com/user-attachments/assets/322276ce-6bec-4637-b5cc-0d1e603bb1a6">
+ 
+</div>
 
 
