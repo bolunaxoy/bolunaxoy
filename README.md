@@ -1,7 +1,7 @@
 ## Emilly Silva 🌸
 Olá! Sou a Emilly, apaixonada por tecnologia e em busca constante de aprendizado. Adoro explorar novas ferramentas e tecnologias!
 
-Atualmente aprendendo: Banco de dados
+Atualmente aprendendo: Tudo! 😂
 
 Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você tiver uma recomendação de leitura ou um jogo interessante, compartilhe comigo!
 
