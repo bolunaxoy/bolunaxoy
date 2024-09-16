@@ -18,7 +18,7 @@ Eu sou a Emilly, uma pessoa apaixonada por tecnologia e aprendizado constante.
   
   
   <div>
-  ## Github stats
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolunaxoy&show_icons=true&theme=radical) 
 
 
