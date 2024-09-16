@@ -1,6 +1,6 @@
  <div style="text-align: center;" align="center">
 
-## EMILLY SILVA 🌸
+## EMILLY SILVA ⭐️
 Olá! Sou a Emilly, apaixonada por tecnologia e em busca constante de aprendizado. Adoro explorar novas ferramentas e tecnologias!
 
 Atualmente aprendendo: Tudo! 😂
