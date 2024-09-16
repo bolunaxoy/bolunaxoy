@@ -21,10 +21,10 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 
 </div>
 
-<div>
-
- <img align="center" alt="luna-CSS" height="300" width="300" src="https://github.com/user-attachments/assets/322276ce-6bec-4637-b5cc-0d1e603bb1a6">
- 
+<div style="text-align: center;" align="center">
+  <br> <!-- Espaço extra -->
+  <img align="center" alt="technologies-gif" height="300" width="300" src="https://github.com/user-attachments/assets/322276ce-6bec-4637-b5cc-0d1e603bb1a6">
+  <br> <!-- Espaço extra -->
 </div>
 
 ## Github Stats:
