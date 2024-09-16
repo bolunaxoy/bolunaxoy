@@ -21,7 +21,7 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 </div>
 
 
-![gif](https://github.com/user-attachments/assets/5722a1f3-6b8f-43c7-88b2-2343fe529cbd)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/322276ce-6bec-4637-b5cc-0d1e603bb1a6)
 
 
 ## Github Stats:
