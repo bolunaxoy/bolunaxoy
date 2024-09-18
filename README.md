@@ -35,12 +35,16 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 
 <div style="text-align: center;" align="center">
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bolunaxoy&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&icon_color=FFFFFF&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bolunaxoy&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=2F2F2F&title_color=2E8B57&text_color=A9A9A9&border_radius=3&border_color=2E8B57&icon_color=4B3F2F&theme=dracula" alt="GitHub stats">
 
   <a href="https://github.com/bolunaxoy/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bolunaxoy&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bolunaxoy&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=2E8B57&bg_color=2F2F2F&text_color=A9A9A9&border_radius=3&border_color=2E8B57" alt="Most Used Languages">
   </a>
 </div>
+
+
+
+
 
 
 </div>
