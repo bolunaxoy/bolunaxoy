@@ -18,6 +18,10 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
   <img align="center" alt="luna-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="luna-AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+
+
+
 
 </div>
 
@@ -37,8 +41,6 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bolunaxoy&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&count_private=true" alt="Most Used Languages">
   </a>
 </div>
-
-
 
 
 </div>
