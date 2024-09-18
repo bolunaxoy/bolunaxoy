@@ -20,9 +20,6 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
   <img align="center" alt="luna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luna-AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 
-
-
-
 </div>
 
 <div style="text-align: center;" align="center">
@@ -43,10 +40,6 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
 </div>
 
 
-
-
-
-
 </div>
 
 <picture align="center">
@@ -65,5 +58,3 @@ Fato curioso: Além de tecnologia, tenho um amor por jogos e livros. Se você ti
     <img align="center" alt="luna-CSS" height="140" width="140" src="https://github.com/user-attachments/assets/cc6fc124-6642-4ed0-b569-37918806c7ac">
   </div>
 </div>
-
-
